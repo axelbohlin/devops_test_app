@@ -49,7 +49,7 @@ jobs:
         uses: docker/build-push-action@v2.9.0
         with:
           push: true
-          tags: production/NAMNET_OCH_TAGEN_TILL_DIN_IMAGE
+          tags: axebolo/devopstestapp
           
         
         
